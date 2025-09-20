@@ -8,7 +8,7 @@
 ## 🔧 Skills
 - Advanced: **HTML, CSS**
 - Intermediate: **JavaScript**
-- Beginner: **PHP (Backend, Python)**
+- Beginner: **PHP (Backend) & Python**
 - Tools: Git, GitHub, AI-assisted workflows
 
 ---
