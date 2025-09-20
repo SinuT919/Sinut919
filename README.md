@@ -20,9 +20,9 @@
 ---
 
 ## 📫 Contact
-- Email: [your-email@example.com]  
+- Email: [sinuteshome8@gmail.com]  
 - GitHub: [https://github.com/USERNAME](https://github.com/Sinut919)  
-- LinkedIn: [Your LinkedIn link]
+- LinkedIn: [[Your LinkedIn link](https://www.linkedin.com/in/sinu-teshome-572a12276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 
 - feat: add profile README
 
