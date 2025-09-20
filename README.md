@@ -1,7 +1,7 @@
 # Hi there 👋 I'm [Sinu Teshome]
 
 💻 **Web Developer** | Advanced **HTML & CSS** | Beginner **PHP & JavaScript**  
-📚 Passionate about turning textbooks into clean, mobile-friendly HTML notes.  
+📚 Passionate on creating websites.  
 
 ---
 
