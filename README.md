@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm [Sinu Teshome]
 
-<!--
-**SinuT919/Sinut919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer** | Advanced **HTML & CSS** | Beginner **PHP & JavaScript**  
+📚 Passionate about turning textbooks into clean, mobile-friendly HTML notes.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Advanced: **HTML, CSS**
+- Intermediate: **JavaScript**
+- Beginner: **PHP (Backend)**
+- Tools: Git, GitHub, AI-assisted workflows
+
+---
+
+## 📌 Featured Projects
+- [Textbook-to-HTML Sample](https://github.com/Sinut919/textbook-to-html-sample) — Demo of structured textbook notes in HTML/CSS.  
+- [Your Other Project](https://github.com/Sinut919/REPO) — Short description here.  
+
+---
+
+## 📫 Contact
+- Email: [your-email@example.com]  
+- GitHub: [https://github.com/USERNAME](https://github.com/Sinut919)  
+- LinkedIn: [Your LinkedIn link]
+
+- feat: add profile README
+
+---
+
+⭐ *Always learning, building, and improving with every project!*
